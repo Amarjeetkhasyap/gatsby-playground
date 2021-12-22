@@ -6,7 +6,7 @@ const IndexPage = () => {
   return (
     <main className="main">
       <h1>Testing Gatsby</h1>
-      <p>Gatsby is cool</p>
+      <p>Amarjeet is cool</p>
     </main>
   )
 }
